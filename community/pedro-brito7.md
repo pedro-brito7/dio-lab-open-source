@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&duration=2000&color=0D7600&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=150&lines=Ol%C3%A1!+Eu+sou+o+Pedro+Brito.+;Um+aspirante+a+DBA%2FEngenheiro+de+Dados.;+;Bem+vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
 
-
 ##
 
  
